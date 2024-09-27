@@ -1,0 +1,9 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/72/71/0b/72710bd4197858702e983cbecb18b6d7.jpg');
+    background-size: 200px ;
+    background-repeat: no-repeat;
+    background-position: top ;
+    background: linear-gradient( to right , orange , white , pink , violet )
+
+    
+}
