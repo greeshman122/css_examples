@@ -3,7 +3,7 @@ body {
     background-size: 200px ;
     background-repeat: no-repeat;
     background-position: top ;
-    background: linear-gradient( to right , orange , white , pink , violet )
-
+    background: linear-gradient( to right , orange , white , pink , violet ) ;
+    background: radial-gradient(circle , pink 5% , violet 25% , red 60%)
     
 }
